@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">gyk_2</string>
+    <string name="list_view_activity">List View Activity</string>
+    <string name="web_view_activity">Web View Activity</string>
+    <string name="enter_name">Adınızı Giriniz</string>
+    <string name="enter_number">Numaranızı Giriniz</string>
+    <string name="enter_message">Mesajınızı Giriniz</string>
+    <string name="female">Kadın</string>
+    <string name="male">Erkek</string>
+    <string name="sms">SMS</string>
+    <string name="call">Arama Yap</string>
+    <string name="send_activity">Activitye Gönder</string>
+</resources>
